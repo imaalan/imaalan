@@ -53,12 +53,17 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=imaalan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=imaalan&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imaalan&theme=github_dark" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaalan&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imaalan&theme=github_dark" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imaalan&theme=github_dark" />
+
+<br/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imaalan&theme=github_dark" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imaalan&theme=github_dark&utcOffset=-3" />
 
 <br/><br/>
 
@@ -74,7 +79,7 @@
 
 <a href="https://www.linkedin.com/in/lima-alan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alan.jl@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://instagram.com/sucslan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/byalan.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
@@ -82,6 +87,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/imaalan/imaalan/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imaalan&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
